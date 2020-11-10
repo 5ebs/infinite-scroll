@@ -47,9 +47,9 @@ h1 {
 }
 /* Media Query */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
     h1 {
-        font-size: 20px;
+        font-size: 25px;
     }
     .image-container {
         margin: 10px;
